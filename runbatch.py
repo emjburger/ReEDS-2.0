@@ -418,7 +418,7 @@ def check_compatibility(sw):
         err = (
             "Manifest.toml does not exist. "
             "Please set up julia by following the instructions at "
-            "https://nrel.github.io/ReEDS-2.0/setup.html#reeds2pras-julia-and-stress-periods-setup"
+            "https://natlabrockies.github.io/ReEDS-2.0/setup.html#reeds2pras-julia-and-stress-periods-setup"
         )
         raise Exception(err)
 
